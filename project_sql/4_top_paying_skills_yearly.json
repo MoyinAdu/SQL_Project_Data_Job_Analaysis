@@ -1,0 +1,102 @@
+[
+  {
+    "skill_name": "pyspark",
+    "avg_annual_salary": "208172.25"
+  },
+  {
+    "skill_name": "linux",
+    "avg_annual_salary": "160515.00"
+  },
+  {
+    "skill_name": "couchbase",
+    "avg_annual_salary": "160515.00"
+  },
+  {
+    "skill_name": "watson",
+    "avg_annual_salary": "160515.00"
+  },
+  {
+    "skill_name": "gitlab",
+    "avg_annual_salary": "154500.00"
+  },
+  {
+    "skill_name": "swift",
+    "avg_annual_salary": "153750.00"
+  },
+  {
+    "skill_name": "jupyter",
+    "avg_annual_salary": "152776.50"
+  },
+  {
+    "skill_name": "pandas",
+    "avg_annual_salary": "151821.33"
+  },
+  {
+    "skill_name": "golang",
+    "avg_annual_salary": "145000.00"
+  },
+  {
+    "skill_name": "gcp",
+    "avg_annual_salary": "145000.00"
+  },
+  {
+    "skill_name": "elasticsearch",
+    "avg_annual_salary": "145000.00"
+  },
+  {
+    "skill_name": "numpy",
+    "avg_annual_salary": "143512.50"
+  },
+  {
+    "skill_name": "databricks",
+    "avg_annual_salary": "141758.25"
+  },
+  {
+    "skill_name": "airflow",
+    "avg_annual_salary": "141378.75"
+  },
+  {
+    "skill_name": "kubernetes",
+    "avg_annual_salary": "132500.00"
+  },
+  {
+    "skill_name": "scala",
+    "avg_annual_salary": "132171.67"
+  },
+  {
+    "skill_name": "twilio",
+    "avg_annual_salary": "127000.00"
+  },
+  {
+    "skill_name": "scikit-learn",
+    "avg_annual_salary": "125781.25"
+  },
+  {
+    "skill_name": "notion",
+    "avg_annual_salary": "125000.00"
+  },
+  {
+    "skill_name": "shell",
+    "avg_annual_salary": "125000.00"
+  },
+  {
+    "skill_name": "postgresql",
+    "avg_annual_salary": "123878.75"
+  },
+  {
+    "skill_name": "microstrategy",
+    "avg_annual_salary": "121619.25"
+  },
+  {
+    "skill_name": "go",
+    "avg_annual_salary": "121599.32"
+  },
+  {
+    "skill_name": "git",
+    "avg_annual_salary": "118000.00"
+  },
+  {
+    "skill_name": "spark",
+    "avg_annual_salary": "116937.50"
+  }
+]

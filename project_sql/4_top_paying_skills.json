@@ -1,0 +1,102 @@
+[
+  {
+    "skill_name": "c#",
+    "avg_hourly_salary": "75.50"
+  },
+  {
+    "skill_name": "gdpr",
+    "avg_hourly_salary": "75.50"
+  },
+  {
+    "skill_name": "scala",
+    "avg_hourly_salary": "66.00"
+  },
+  {
+    "skill_name": "hadoop",
+    "avg_hourly_salary": "66.00"
+  },
+  {
+    "skill_name": "zoom",
+    "avg_hourly_salary": "65.00"
+  },
+  {
+    "skill_name": "gcp",
+    "avg_hourly_salary": "62.50"
+  },
+  {
+    "skill_name": "databricks",
+    "avg_hourly_salary": "59.50"
+  },
+  {
+    "skill_name": "airflow",
+    "avg_hourly_salary": "56.50"
+  },
+  {
+    "skill_name": "redshift",
+    "avg_hourly_salary": "55.71"
+  },
+  {
+    "skill_name": "postgresql",
+    "avg_hourly_salary": "55.00"
+  },
+  {
+    "skill_name": "cobol",
+    "avg_hourly_salary": "55.00"
+  },
+  {
+    "skill_name": "microstrategy",
+    "avg_hourly_salary": "54.77"
+  },
+  {
+    "skill_name": "db2",
+    "avg_hourly_salary": "54.67"
+  },
+  {
+    "skill_name": "kafka",
+    "avg_hourly_salary": "52.50"
+  },
+  {
+    "skill_name": "crystal",
+    "avg_hourly_salary": "52.00"
+  },
+  {
+    "skill_name": "smartsheet",
+    "avg_hourly_salary": "48.00"
+  },
+  {
+    "skill_name": "ssis",
+    "avg_hourly_salary": "46.00"
+  },
+  {
+    "skill_name": "azure",
+    "avg_hourly_salary": "45.49"
+  },
+  {
+    "skill_name": "cordova",
+    "avg_hourly_salary": "45.00"
+  },
+  {
+    "skill_name": "cognos",
+    "avg_hourly_salary": "43.97"
+  },
+  {
+    "skill_name": "spreadsheet",
+    "avg_hourly_salary": "43.84"
+  },
+  {
+    "skill_name": "sas",
+    "avg_hourly_salary": "42.74"
+  },
+  {
+    "skill_name": "power bi",
+    "avg_hourly_salary": "42.48"
+  },
+  {
+    "skill_name": "go",
+    "avg_hourly_salary": "41.69"
+  },
+  {
+    "skill_name": "sheets",
+    "avg_hourly_salary": "41.39"
+  }
+]

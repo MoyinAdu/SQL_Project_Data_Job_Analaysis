@@ -1,0 +1,22 @@
+[
+  {
+    "skills": "sql",
+    "skill_demand": "1399"
+  },
+  {
+    "skills": "excel",
+    "skill_demand": "977"
+  },
+  {
+    "skills": "tableau",
+    "skill_demand": "790"
+  },
+  {
+    "skills": "python",
+    "skill_demand": "734"
+  },
+  {
+    "skills": "r",
+    "skill_demand": "496"
+  }
+]

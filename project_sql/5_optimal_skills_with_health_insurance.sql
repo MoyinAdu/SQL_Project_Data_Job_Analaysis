@@ -4,6 +4,7 @@ Question: What are the most optimal skills to learn (high demand & high paying s
 - Why? Target skills that offer job security (high demand) and financial benefits (high salaries),
 offering strategic insights for career development in data analysis;
 
+-- Long version of the query. The short version below
 WITH skills_demand AS ( 
     SELECT
         skills.skill_id,  -- we can combine the two CTEs with the main query using 'skills' but that's not best practice. usinf the keys(primary and foreign keys e.gkill_id, job_id etc) is much better
@@ -34,7 +35,6 @@ WITH skills_demand AS (
         SJD.skill_id
 )
 
-
 SELECT 
     skills_demand.skill_id,
     skills_demand.skills,
@@ -51,7 +51,7 @@ LIMIT
     25;
 
 
--- rewriting this same query more concisely
+-- Short version of the query. Long version above
 SELECT
     skills.skill_id,
     skills.skills,
